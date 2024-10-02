@@ -19,6 +19,7 @@ function App() {
         </a>
       </header>*/}
       <h1>Hello World React!</h1>
+      <h2>Emmet funcionou</h2>
     </div>
   );
 }
