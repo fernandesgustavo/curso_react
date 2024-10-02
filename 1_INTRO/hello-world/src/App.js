@@ -20,6 +20,7 @@ function App() {
       </header>*/}
       <h1>Hello World React!</h1>
       <h2>Emmet funcionou</h2>
+      <p className="App-desafio-1">Primeira tarefa do curso realizada com sucesso!</p>
     </div>
   );
 }
